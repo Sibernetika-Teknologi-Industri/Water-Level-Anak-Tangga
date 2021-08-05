@@ -11,9 +11,6 @@ Doc
 Src
 ├── dev                                 #development code    
 └── water_level                         #implemented code
-     └──VOCdevkit
-         └──VOC2007
-         └──VOC2012
-```
+ 
 
 Online platform dashboard : Cayenne.com
