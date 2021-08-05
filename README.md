@@ -15,5 +15,5 @@ Src
 
 Online platform dashboard : Cayenne.com
 Tutorial : 
-* [Youtube](https://www.youtube.com/watch?v=HwodvtzXXtc)
+*[Youtube](https://www.youtube.com/watch?v=HwodvtzXXtc)
 * dan tutorial lainnya (cukup banyak tutorial)
